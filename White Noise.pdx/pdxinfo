@@ -1,7 +1,8 @@
 name=White Noise
 author=Orllewin
-description=
+description=Ambient white noise.
 bundleID=orllewin.playdate.whitenoise
-imagePath=
+version=1.0.0
+imagePath=card.png
 pdxversion=11200
-buildtime=727092156
+buildtime=727139223
